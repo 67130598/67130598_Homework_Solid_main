@@ -35,13 +35,11 @@
 *.xcodeproj
 *.xcworkspace
 *.sln
-*.slnx
 *.suo
 *.opensdf
 *.sdf
 *.VC.db
 *.VC.opendb
-.vsconfig
 
 # Precompiled Assets
 SourceArt/**/*.png
